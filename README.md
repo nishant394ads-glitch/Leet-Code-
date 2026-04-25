@@ -11,6 +11,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [2452-words-within-two-edits-of-dictionary](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2615-sum-of-distances/) | Medium |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -21,6 +22,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3783-mirror-distance-of-an-integer](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -34,6 +36,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,4 +57,12 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2833-furthest-point-from-origin](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2833-furthest-point-from-origin/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 <!---LeetCode Topics End-->
