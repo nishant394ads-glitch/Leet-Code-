@@ -41,6 +41,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0061-rotate-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -107,4 +108,8 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0796-rotate-string/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
