@@ -19,6 +19,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [2615-sum-of-distances](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2615-sum-of-distances/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
+| [3660-jump-game-ix](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3660-jump-game-ix/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +108,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | ------- | ------- |
 | [0396-rotate-function](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0788-rotated-digits/) | Medium |
+| [3660-jump-game-ix](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3660-jump-game-ix/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
