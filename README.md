@@ -22,6 +22,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [2553-separate-the-digits-in-an-array](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2615-sum-of-distances/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
@@ -72,6 +73,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | ------- | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2615-sum-of-distances](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2615-sum-of-distances/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -91,6 +93,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | ------- | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
