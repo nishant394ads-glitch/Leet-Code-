@@ -16,6 +16,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [1559-detect-cycles-in-2d-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
