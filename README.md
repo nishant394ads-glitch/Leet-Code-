@@ -11,6 +11,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0396-rotate-function](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0396-rotate-function/) | Medium |
 | [1306-jump-game-iii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1306-jump-game-iii/) | Medium |
+| [1340-jump-game-v](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -107,6 +108,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1340-jump-game-v](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -144,6 +146,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | ------- | ------- |
 | [0396-rotate-function](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0788-rotated-digits/) | Medium |
+| [1340-jump-game-v](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1340-jump-game-v/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3660-jump-game-ix](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3660-jump-game-ix/) | Medium |
 ## String Matching
