@@ -39,6 +39,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0796-rotate-string/) | Easy |
+| [1871-jump-game-vii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1871-jump-game-vii/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -96,6 +97,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1871-jump-game-vii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1871-jump-game-vii/) | Medium |
 | [2615-sum-of-distances](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2615-sum-of-distances/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -147,6 +149,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [0396-rotate-function](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0788-rotated-digits/) | Medium |
 | [1340-jump-game-v](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1340-jump-game-v/) | Hard |
+| [1871-jump-game-vii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1871-jump-game-vii/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3660-jump-game-ix](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3660-jump-game-ix/) | Medium |
 ## String Matching
@@ -166,4 +169,8 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | ------- | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1871-jump-game-vii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1871-jump-game-vii/) | Medium |
 <!---LeetCode Topics End-->
