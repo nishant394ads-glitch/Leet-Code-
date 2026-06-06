@@ -64,6 +64,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3783-mirror-distance-of-an-integer](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -178,6 +179,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [1871-jump-game-vii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1871-jump-game-vii/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3660-jump-game-ix](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3660-jump-game-ix/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
