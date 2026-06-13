@@ -44,6 +44,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3660-jump-game-ix/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3838-weighted-word-mapping/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +56,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,6 +206,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | ------- | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
