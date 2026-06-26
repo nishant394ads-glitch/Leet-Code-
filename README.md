@@ -45,6 +45,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3660-jump-game-ix/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3838-weighted-word-mapping/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -78,6 +79,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +127,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +135,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [1871-jump-game-vii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1871-jump-game-vii/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2615-sum-of-distances/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -226,6 +230,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3161-block-placement-queries](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3161-block-placement-queries/) | Hard |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -242,4 +247,8 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 <!---LeetCode Topics End-->
