@@ -53,6 +53,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0796-rotate-string/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1871-jump-game-vii/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -124,6 +125,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1345-jump-game-iv](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1345-jump-game-iv/) | Hard |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2540-minimum-common-value](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2615-sum-of-distances/) | Medium |
@@ -226,6 +228,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1871-jump-game-vii/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
