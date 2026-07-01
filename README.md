@@ -36,6 +36,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [2615-sum-of-distances](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2615-sum-of-distances/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3161-block-placement-queries](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3161-block-placement-queries/) | Hard |
@@ -101,6 +102,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2540-minimum-common-value/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3161-block-placement-queries](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3161-block-placement-queries/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -178,12 +180,14 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [1345-jump-game-iv](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,6 +197,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [1861-rotating-the-box](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -259,4 +264,8 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 <!---LeetCode Topics End-->
