@@ -50,6 +50,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [3660-jump-game-ix](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3660-jump-game-ix/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3897-maximum-value-of-concatenated-binary-segments](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3897-maximum-value-of-concatenated-binary-segments/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +118,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3897-maximum-value-of-concatenated-binary-segments](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3897-maximum-value-of-concatenated-binary-segments/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +168,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3897-maximum-value-of-concatenated-binary-segments](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3897-maximum-value-of-concatenated-binary-segments/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
