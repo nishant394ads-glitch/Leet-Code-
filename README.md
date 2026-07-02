@@ -40,6 +40,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3161-block-placement-queries](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3161-block-placement-queries/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -184,6 +185,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -201,6 +203,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [1914-cyclically-rotating-a-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -271,4 +274,13 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 <!---LeetCode Topics End-->
