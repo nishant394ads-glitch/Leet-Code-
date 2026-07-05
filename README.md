@@ -10,6 +10,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0396-rotate-function](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0396-rotate-function/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1345-jump-game-iv/) | Hard |
@@ -200,6 +201,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0048-rotate-image/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1861-rotating-the-box](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1861-rotating-the-box/) | Medium |
@@ -212,6 +214,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | ------- | ------- |
 | [0396-rotate-function](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0788-rotated-digits/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1871-jump-game-vii/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
