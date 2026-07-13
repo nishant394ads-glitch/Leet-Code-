@@ -312,4 +312,8 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->
