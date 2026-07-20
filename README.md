@@ -10,6 +10,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0396-rotate-function](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0396-rotate-function/) | Medium |
+| [1260-shift-2d-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1306-jump-game-iii/) | Medium |
@@ -236,6 +237,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0048-rotate-image/) | Medium |
+| [1260-shift-2d-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -280,6 +282,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1260-shift-2d-grid/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3614-process-string-with-special-operations-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
