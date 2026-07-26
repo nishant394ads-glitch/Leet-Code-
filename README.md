@@ -10,6 +10,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0396-rotate-function](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0396-rotate-function/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1260-shift-2d-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -90,6 +91,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [0002-add-two-numbers](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0396-rotate-function/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0788-rotated-digits/) | Medium |
 | [1840-maximum-building-height](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -199,6 +201,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1340-jump-game-v/) | Hard |
