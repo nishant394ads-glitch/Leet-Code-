@@ -83,6 +83,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [3121-count-the-number-of-special-characters-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -215,6 +216,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -373,4 +375,8 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
