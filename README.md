@@ -78,6 +78,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [2452-words-within-two-edits-of-dictionary](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -155,6 +156,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [2078-two-furthest-houses-with-different-colors](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -175,6 +177,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [2540-minimum-common-value](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2615-sum-of-distances/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -195,6 +198,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2833-furthest-point-from-origin](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
@@ -215,6 +219,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [2126-destroying-asteroids](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
