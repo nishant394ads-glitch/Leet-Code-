@@ -6,6 +6,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0048-rotate-image](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0048-rotate-image/) | Medium |
 | [0136-single-number](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0136-single-number/) | Easy |
@@ -72,6 +73,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0796-rotate-string](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -173,6 +175,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0014-longest-common-prefix/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3093-longest-common-suffix-queries/) | Hard |
