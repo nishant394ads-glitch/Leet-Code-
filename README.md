@@ -6,6 +6,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0048-rotate-image](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0048-rotate-image/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -122,6 +123,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0061-rotate-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1861-rotating-the-box/) | Medium |
