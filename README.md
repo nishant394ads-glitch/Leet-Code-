@@ -22,6 +22,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [1340-jump-game-v](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1406-stone-game-iii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -103,6 +104,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [0396-rotate-function](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0396-rotate-function/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0788-rotated-digits/) | Medium |
+| [1406-stone-game-iii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1406-stone-game-iii/) | Hard |
 | [1840-maximum-building-height](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1840-maximum-building-height/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -287,6 +289,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [0788-rotated-digits](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0788-rotated-digits/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1340-jump-game-v/) | Hard |
+| [1406-stone-game-iii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1406-stone-game-iii/) | Hard |
 | [1871-jump-game-vii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1871-jump-game-vii/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -398,4 +401,16 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1406-stone-game-iii/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1406-stone-game-iii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
