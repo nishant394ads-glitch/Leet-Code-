@@ -40,6 +40,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [2078-two-furthest-houses-with-different-colors](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2540-minimum-common-value/) | Easy |
@@ -87,6 +88,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [1871-jump-game-vii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1871-jump-game-vii/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -362,6 +364,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3161-block-placement-queries](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3161-block-placement-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -457,4 +460,8 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1510-stone-game-iv/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 <!---LeetCode Topics End-->
