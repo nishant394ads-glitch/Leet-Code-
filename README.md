@@ -94,6 +94,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [2833-furthest-point-from-origin](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -209,6 +210,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -357,6 +359,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1871-jump-game-vii/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
