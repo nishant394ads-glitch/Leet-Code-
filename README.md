@@ -26,6 +26,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [1406-stone-game-iii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1563-stone-game-v](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1563-stone-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -118,6 +119,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [1140-stone-game-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1563-stone-game-v/) | Hard |
 | [1840-maximum-building-height](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1840-maximum-building-height/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -321,6 +323,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [1340-jump-game-v](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1340-jump-game-v/) | Hard |
 | [1406-stone-game-iii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1563-stone-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1871-jump-game-vii/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -452,6 +455,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [1140-stone-game-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
