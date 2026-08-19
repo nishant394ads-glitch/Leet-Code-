@@ -22,6 +22,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [1331-rank-transform-of-an-array](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1345-jump-game-iv/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1406-stone-game-iii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -182,6 +183,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -209,6 +211,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [1331-rank-transform-of-an-array](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2540-minimum-common-value](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2615-sum-of-distances/) | Medium |
@@ -389,6 +392,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0136-single-number/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
