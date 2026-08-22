@@ -139,6 +139,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
