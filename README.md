@@ -79,6 +79,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3660-jump-game-ix/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3731-find-missing-elements/) | Easy |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -236,6 +237,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3731-find-missing-elements/) | Easy |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Prefix Sum
