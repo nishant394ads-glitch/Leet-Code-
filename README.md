@@ -114,6 +114,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Math
@@ -209,6 +210,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3897-maximum-value-of-concatenated-binary-segments](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3897-maximum-value-of-concatenated-binary-segments/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
@@ -239,6 +241,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3731-find-missing-elements/) | Easy |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Prefix Sum
@@ -260,6 +263,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [2833-furthest-point-from-origin](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -455,6 +459,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [1291-sequential-digits](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1291-sequential-digits/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
