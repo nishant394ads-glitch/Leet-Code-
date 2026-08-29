@@ -54,6 +54,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -285,6 +286,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [2126-destroying-asteroids](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -324,6 +326,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [1559-detect-cycles-in-2d-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
