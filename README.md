@@ -75,6 +75,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -244,6 +245,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [3312-sorted-gcd-pair-queries](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -320,6 +322,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -343,6 +346,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -428,6 +432,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
