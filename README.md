@@ -87,6 +87,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3897-maximum-value-of-concatenated-binary-segments](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3897-maximum-value-of-concatenated-binary-segments/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -158,6 +159,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
