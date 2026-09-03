@@ -88,6 +88,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [3838-weighted-word-mapping](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3897-maximum-value-of-concatenated-binary-segments](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3897-maximum-value-of-concatenated-binary-segments/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -160,6 +161,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [3783-mirror-distance-of-an-integer](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
