@@ -90,6 +90,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [3875-construct-uniform-parity-array-i](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3897-maximum-value-of-concatenated-binary-segments](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3897-maximum-value-of-concatenated-binary-segments/) | Hard |
+| [3903-smallest-stable-index-i](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -267,6 +268,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [3312-sorted-gcd-pair-queries](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
