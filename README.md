@@ -135,6 +135,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [1140-stone-game-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1510-stone-game-iv/) | Hard |
+| [1518-water-bottles](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1518-water-bottles/) | Easy |
 | [1563-stone-game-v](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1563-stone-game-v/) | Hard |
 | [1840-maximum-building-height](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1840-maximum-building-height/) | Hard |
 | [1872-stone-game-viii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1872-stone-game-viii/) | Hard |
@@ -399,6 +400,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1260-shift-2d-grid/) | Easy |
+| [1518-water-bottles](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1518-water-bottles/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
