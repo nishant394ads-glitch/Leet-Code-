@@ -97,6 +97,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [0014-longest-common-prefix](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0796-rotate-string](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0796-rotate-string/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -359,6 +360,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | ------- | ------- |
 | [0396-rotate-function](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0788-rotated-digits/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1140-stone-game-ii](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1340-jump-game-v/) | Hard |
