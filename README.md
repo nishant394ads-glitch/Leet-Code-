@@ -176,6 +176,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0061-rotate-list/) | Medium |
+| [0141-linked-list-cycle](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -237,6 +238,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0141-linked-list-cycle/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -388,6 +390,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [0002-add-two-numbers](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0002-add-two-numbers/) | Medium |
 | [0061-rotate-list](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0141-linked-list-cycle](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -548,4 +551,8 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
