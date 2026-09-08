@@ -177,6 +177,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0061-rotate-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/1861-rotating-the-box/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -389,6 +390,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Number Theory
