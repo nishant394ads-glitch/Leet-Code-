@@ -386,6 +386,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | [0002-add-two-numbers](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0002-add-two-numbers/) | Medium |
 | [0061-rotate-list](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0206-reverse-linked-list/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -434,6 +435,7 @@ Collection of my LeetCode practice problems solved in Python/Java/C++ to improve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0002-add-two-numbers/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/nishant394ads-glitch/Leet-Code-/tree/main/0206-reverse-linked-list/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
